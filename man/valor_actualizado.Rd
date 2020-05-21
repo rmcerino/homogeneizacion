@@ -28,9 +28,6 @@ elasticidad = Elasticidad de tipo de cambio en cada observación
 
 valor_actualizado = Es el valor en pesos por metro cuadrado llevado al tipo de cambio de referencia
 
-\references{
-%% ~put references to the literature/web site here ~
-}
 \author{
 %%  ~~who you are~~
 }
