@@ -28,9 +28,8 @@ elasticidad = Elasticidad de tipo de cambio en cada observación
 
 valor_actualizado = Es el valor en pesos por metro cuadrado llevado al tipo de cambio de referencia
 
-\author{
-%%  ~~who you are~~
 }
+
 \note{
 Este es el segundo de tres pasos para actualizar y homogeneizar la base muestral.
 
